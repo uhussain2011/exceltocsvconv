@@ -2,7 +2,7 @@
 
 ##Install
 
-composer require tritility/exceltocsvll
+composer require tritility/exceltocsv
 
 ##Import namespace and the ExcelToCsv command class
 ###In your Kernel.php file in your consol directory of your main app like bellow
