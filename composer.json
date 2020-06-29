@@ -1,0 +1,14 @@
+{
+    "name": "tritility/exceltocsv",
+    "description": "A package to convert excel file to csv file from console",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "uhussain2011",
+            "email": "40121551+uhussain2011@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
